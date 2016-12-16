@@ -1,7 +1,7 @@
 $(document).ready(function() {
-  console.log('hi');
-  // const id = parseQueryString(window.locoation.search);
-  // console.log(id);
+    console.log('hi');
+    // const id = parseQueryString(window.locoation.search);
+    // console.log(id);
 
 
 });
